@@ -3,7 +3,6 @@ import logo from "../../Logonetflix.png"
 import {Link} from "react-router-dom"
 import {ImSearch} from "react-icons/im"  
 
-
 const Header = () => {
   return (
     <nav className="header">
